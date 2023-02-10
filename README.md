@@ -1,4 +1,3 @@
 # 100 day of Android Advanced code challenge
 
-## Networking
-## Threading
+* Day 1: OkHttp & Kotlin Serializer
